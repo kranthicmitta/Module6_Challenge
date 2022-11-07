@@ -33,8 +33,8 @@ Julpyter Lab needs to be installed through Anaconda.
 ### Usage
 
  This project can be used for finding investment opportunities in San Francisco housing market.
- ![]()
- 
+ !['Line Plot by Neighborhood'](Line_Plot_by_Neighborhood.PNG)
+ !['Price per sqft & Gross Rent'](Price_per_sqft&Gross_Rent.PNG)
 
 
 ## Contributors
