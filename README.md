@@ -33,9 +33,8 @@ Julpyter Lab needs to be installed through Anaconda.
 ### Usage
 
  This project can be used for finding investment opportunities in San Francisco housing market.
- ![Members Portfolio](Members_Portfolio.PNG)
- ![30 Years Cumulative Returns](30Y_Cumulative_Returns.PNG)
- ![10 Years Cumulative Returns](10Y_Cumulative_Returns.PNG)
+ ![]()
+ 
 
 
 ## Contributors
